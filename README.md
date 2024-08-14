@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leeseayoung&label=Profile%20views&color=0e75b6&style=flat" alt="leeseayoung" /> </p>
 
-- 🔭 I’m currently working on [movieProject](https://github.com/leeseayoung/Movie)
+
 
 - 📫 How to reach me **tnfusrltk12@naver.com**
 
