@@ -29,9 +29,9 @@
 <img src="https://img.shields.io/badge/slack-633d68?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/notion-eeeeee?style=for-the-badge&logo=notion&logoColor=black">
 </div>
-
 <br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeseayoung&show_icons=true&locale=en&layout=compact" alt="leeseayoung" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leeseayoung&show_icons=true&locale=en" alt="leeseayoung" /></p>
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseayoung&layout=compact&theme=graywhite" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeseayoung&show_icons=true&theme=graywhite" height="180px" />
+</div>
